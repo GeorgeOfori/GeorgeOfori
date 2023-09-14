@@ -4,7 +4,7 @@
    src="https://github-readme-stats.vercel.app/api?username=GeorgeOfori&show_icons=true&theme=tokyonight" 
 />
 
-            
+![Profile Views](https://komarev.com/ghpvc/?username=GeorgeOfori)         
 
 
 ![GitHub Followers](https://img.shields.io/github/followers/GeorgeOfori?style=social)                ![GitHub Stars](https://img.shields.io/github/stars/GeorgeOfori?style=social)
