@@ -1,4 +1,4 @@
-### Hi there, friends 👋
+### Hi there, friends. My name is George, good to see you 👋
 
 <!--
 **GeorgeOfori/GeorgeOfori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
