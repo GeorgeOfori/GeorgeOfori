@@ -12,7 +12,11 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/GeorgeOfori)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/GeorgeOfori)                                                   
+
+
+
+[![Twitter](https://img.shields.io/badge/-Twitter-00acee)](https://twitter.com/GeorgeOfori)
 
 
 <!--
