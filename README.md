@@ -8,7 +8,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=GeorgeOfori)
 
 
-![GitHub Followers](https://img.shields.io/github/followers/GeorgeOfori?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/GeorgeOfori?style=social)                ![GitHub Stars](https://img.shields.io/github/stars/GeorgeOfori?style=social)
+
+
+
+![GitHub Stars](https://img.shields.io/github/stars/GeorgeOfori?style=social)
 
 
 <!--
