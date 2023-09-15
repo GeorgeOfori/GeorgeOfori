@@ -25,9 +25,9 @@ tasklist
 
 1. Preparation
 
-   1.1. Scope
+  ### 1.1. Scope
 
-      1.1.1. Short Description
+      #### 1.1.1. Short Description
 
     Project Name: Offer design dashboard generator
 
@@ -36,13 +36,14 @@ into offer
 
 
 
-1.2. Project Plan
+### 1.2. Project Plan
 
-1.2.1. Team
-     Artiom 
-     George
 
-1.2.2. Functions & Roles
+#### 1.2.1. Team
+- Artiom 
+     - George
+
+#### 1.2.2. Functions & Roles
 
  Artiom (Supervisor)
   - Provide overall project guidance and direction.
@@ -68,7 +69,7 @@ George (Developer)
 1.2.3. Phases & Task Management
 
 ## Planning Phase:
-    - Collaborate with AXIOM-XD team including Artiom for detailed requirements
+ - Collaborate with AXIOM-XD team including Artiom for detailed requirements
     - Identify and assign roles and responsibilities to team members(Artiom and George).
     - Develop a detailed project plan that includes timelines, milestones, and deliverables.
     - Determine the programming languages, frameworks, and tools that will be used for development.
@@ -79,7 +80,7 @@ George (Developer)
 
 Development of the Python Script:
 
-    - George starts writing the Python script responsible for automating the data profiling process.
+- George starts writing the Python script responsible for automating the data profiling process.
     - He use the libraries and tools mentioned in the project plan, such as openpyxl for Excel file handling and pandas for
       data manipulation.
     - The script is designed to load data from each sheet of Excel workbooks and perform various data profiling tasks,
@@ -87,22 +88,22 @@ Development of the Python Script:
 
 Data Loading and Processing:
 
-    - The script is programmed to iterate through each sheet of the Excel workbooks, extracting data and storing it in memory.
+- The script is programmed to iterate through each sheet of the Excel workbooks, extracting data and storing it in memory.
     - Data preprocessing techniques may be applied to clean and prepare the data for analysis.
 
 Statistical Analysis:
 
-    - The script calculates various statistical metrics to gain insights into the data. This may include measures like mean, 
+ - The script calculates various statistical metrics to gain insights into the data. This may include measures like mean, 
       median, standard deviation, and more.
     - These statistics help in understanding the distribution and characteristics of the data.
 
 Correlation Analysis:
 
-    - The Python script performs correlation analysis to identify relationships between different variables in the data.
+ - The Python script performs correlation analysis to identify relationships between different variables in the data.
     - Correlation matrices or visualizations may be generated to visualize these relationships.
 
 Handling Missing Values:
-     - The script addresses missing data by identifying missing values and applying appropriate strategies, such as imputation 
+ - The script addresses missing data by identifying missing values and applying appropriate strategies, such as imputation 
        or removal of rows or columns with missing values.
 
 Report Generation:
