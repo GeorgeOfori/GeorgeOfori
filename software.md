@@ -25,9 +25,9 @@ tasklist
 
 1. Preparation
 
-  ### 1.1. Scope
+  ## 1.1. Scope
 
-      #### 1.1.1. Short Description
+     1.1.1. Short Description
 
     Project Name: Offer design dashboard generator
 
