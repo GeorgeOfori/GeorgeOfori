@@ -20,3 +20,5 @@ tasklist
 - [ ] incomplet
 
 ![alt flowchart](C:\Users\georg\Downloads\FLOWCHART OFFER DESIGN.drawio.png)
+
+![Alt text](image.png)
